@@ -11,27 +11,11 @@ além facilitar o acesso à informação pesquisada e resumida.
 
 Qualquer coisa, entre em `Contato </contato/>`_.
 
-Índices e tabelas
-=================
+Índice
+======
 
-.. toctree::
-   :caption: Conteúdo
-   :name: indicegeral
-   :maxdepth: 2
-   :numbered:
-
-   mc
-   mat
-   solo
-   port
-   pericias
-   eng
-   prg
-   src/modules
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. contents:: `Índice`
+   :depth: 2
 
 
 Histórico
@@ -82,4 +66,30 @@ abaixo, permitindo o aprofundamento dos estudos.
 
 .. include:: <isoamsr.txt>
 
-.. include:: </PRJ/mc/wsgi/variaveis.txt>
+.. |Fi1| replace:: Fi\ :sub:`1`\
+.. |Ks| replace:: K\ :sub:`s`\
+.. |ki| replace:: k\ :sub:`i`\
+.. |m3| replace:: m\ :sup:`3`\
+.. |Af| replace:: A\ :sub:`f`\
+.. |m2| replace:: m\ :sup:`2`\
+.. |b0| replace:: b\ :sub:`0`\
+.. |mm2| replace:: mm\ :sup:`2`\
+.. |defT| replace:: def\ :sub:`T`\
+.. |COMP0| replace:: COMP\ :sub:`0`\
+.. |COMPvar| replace:: COMP\ :sub:`var`\
+.. |T0| replace:: T\ :sub:`0`\
+.. |T1| replace:: T\ :sub:`1`\
+.. |defTe| replace:: def\ :sub:`Te`\
+.. |graus| replace:: \ :sub:`o`\
+.. |sen2| replace:: sen\ :sup:`2`\
+.. |10E3| replace:: 10\ :sup:`3`\
+.. |Cd| replace:: C\ :sub:`d`\
+.. |Cm| replace:: C\ :sub:`m`\
+.. |D^2| replace:: D\ :sup:`2`\
+.. |Fa| replace:: F\ :sub:`a`\
+.. |Fi| replace:: F\ :sub:`i`\
+.. |H1/3| replace:: H\ :sub:`1/3`\
+.. |h2| replace:: h\ :sup:`2`\
+.. |H_s| replace:: H\ :sub:`s`\
+.. |v^2| replace:: v\ :sup:`2`\
+.. |yt| replace:: y\ :sub:`t`\
