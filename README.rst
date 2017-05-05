@@ -1,9 +1,4 @@
-..  #!/usr/bin/env python3
-  # -*- coding: utf8 -*-
-.. Memória de Cálculo documentation master file, created by
-   sphinx-quickstart on Mon Jun 20 14:17:07 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. Para que o GitHub renderize os arquivos '.rst' corretamente, eles devem estar em UTF-8
 
 Bem vind@!
 ==========
@@ -19,6 +14,24 @@ Qualquer coisa, entre em `Contato </contato/>`_.
 Índices e tabelas
 =================
 
+.. toctree::
+   :caption: Conteúdo
+   :name: indicegeral
+   :maxdepth: 2
+   :numbered:
+
+   mc
+   mat
+   solo
+   port
+   pericias
+   eng
+   prg
+   src/modules
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
 
 
 Histórico
@@ -37,16 +50,6 @@ Em 13/07/2014 foi criado um `aplicativo teste para celular <http://app.vc/memori
 Após o término de hospedagem de código pelo `Google <http://www.google.com>`_,
 este projeto foi arquivado no link https://code.google.com/archive/p/memoria-de-calculo/
 
-Posteriormente, este projeto foi migrado adaptado para ser publicado na web utilizando
-`Django <https://www.djangoproject.com/>`_. Desta forma, passou a ser um sistema
-de gerenciamento de tarefas e conteúdo, através do `Openshift <https://www.openshift.com/>`_,
-para facilitar a troca de idéias/dicas entre um grupo de engenheiros envolvidos
-com análise e cálculo estrutural. Consequentemente, acabou virando uma forma de
-documentar e guardar informações para consultas em novos trabalhos.
-
-Aos poucos foi se expandindo para outras áreas de cálculo, formando uma fonte de
-conhecimento, justificando o nome `Memória de Cálculo <http://www.memoriadecalculo.com.br/>`_.
-
 Bibliografia
 ============
 De maneira geral, procurou-se citar os autores e fontes bibliográficas e sumarizá-los
@@ -57,7 +60,7 @@ abaixo, permitindo o aprofundamento dos estudos.
 .. [BowlesTerzaghi1955] Bowles e Terzaghi, Foundation Analysis and Design, McGraw Hill, 1955
 .. [CintraAoki] José Carlos A. Cintra e Nelson Aoki, Fundações por estaca - Projeto geotécnico, Oficina de Textos
 .. [DesignPorts] Design and Construction of Ports and Marine Structures
-.. [GONZALEZ2001] Notas de Aula, Ações de Ondas Sobre Estruturas, Ações de Ondas Sobre Enrocamentos, Julio de A. Gonzalez, 2001
+.. [Gonzalez2001] Notas de Aula, Ações de Ondas Sobre Estruturas, Ações de Ondas Sobre Enrocamentos, Julio de A. Gonzalez, 2001
 .. [Moliterno2008] Antonio Moliterno, Caderno de muros de arrimo, 2ª Edição revista, Editora Edgard Blücher, 2008
 .. [Monteiro2005] Paulo Frederico Monteiro, Notas de aula, 2005
 .. [Monteiro2006] Paulo Frederico Monteiro, Programação de Sondagens, 2006
@@ -76,3 +79,7 @@ abaixo, permitindo o aprofundamento dos estudos.
 .. [Sussekind1977] José Carlos Süssekind, Curso de Análise Estrutural, Volume 2, Capítulo III, 2a Edição; Editora Globo, 1977
 .. [UFC_4-150-08] UNIFIED FACILITIES CRITERIA 4-150-08: INSPECTION OF MOORING HARDWARE
 .. [Winckler1867] Emil Winckler, Die Lehre von Elastizität und Festigkeit (On elasticity and fixity), Prague, p.182, 1867
+
+.. include:: <isoamsr.txt>
+
+.. include:: </PRJ/mc/wsgi/variaveis.txt>
