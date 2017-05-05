@@ -1,14 +1,14 @@
 ..  #!/usr/bin/env python3
   # -*- coding: cp1252 -*-
-.. Mem√≥ria de C√°lculo documentation master file, created by
+.. MemÛria de C·lculo documentation master file, created by
    sphinx-quickstart on Mon Jun 20 14:17:07 2016.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
 Bem vind@!
 ==========
-Esta √© uma biblioteca com o intuito de compatilhar c√≥digo na √°rea de exatas,
-al√©m facilitar o acesso √† informa√ß√£o pesquisada e resumida.
+Esta È uma biblioteca com o intuito de compatilhar cÛdigo na ·rea de exatas,
+alÈm facilitar o acesso ‡ informaÁ„o pesquisada e resumida.
 
 **Aproveite!**
 
@@ -16,63 +16,63 @@ al√©m facilitar o acesso √† informa√ß√£o pesquisada e resumida.
 
 Qualquer coisa, entre em `Contato </contato/>`_.
 
-√çndices e tabelas
+Õndices e tabelas
 =================
 
 
 
-Hist√≥rico
+HistÛrico
 =========
-A primeira vers√£o deste projeto e biblioteca foi publicada em Julho de 2014 para
-auxiliar nos c√°lculos e na elabora√ß√£o de relat√≥rios.
+A primeira vers„o deste projeto e biblioteca foi publicada em Julho de 2014 para
+auxiliar nos c·lculos e na elaboraÁ„o de relatÛrios.
 
-Ela foi disponibilizada de acordo com a licen√ßa `GPL vers√£o 3 <http://pt.wikipedia.org/wiki/GNU_General_Public_License>`_ atrav√©s do projeto google
-`Biblioteca Mem√≥ria de C√°lculo <https://code.google.com/p/memoria-de-calculo>`_.
+Ela foi disponibilizada de acordo com a licenÁa `GPL vers„o 3 <http://pt.wikipedia.org/wiki/GNU_General_Public_License>`_ atravÈs do projeto google
+`Biblioteca MemÛria de C·lculo <https://code.google.com/p/memoria-de-calculo>`_.
 
 A biblioteca foi desenvolvida basicamente em `Linguagem Python <http://pt.wikipedia.org/wiki/Python>`_
 e documentada em `RestructuredText <http://pt.wikipedia.org/wiki/ReStructuredText>`_.
 
 Em 13/07/2014 foi criado um `aplicativo teste para celular <http://app.vc/memoria_de_calculo>`_.
 
-Ap√≥s o t√©rmino de hospedagem de c√≥digo pelo `Google <http://www.google.com>`_,
+ApÛs o tÈrmino de hospedagem de cÛdigo pelo `Google <http://www.google.com>`_,
 este projeto foi arquivado no link https://code.google.com/archive/p/memoria-de-calculo/
 
 Posteriormente, este projeto foi migrado adaptado para ser publicado na web utilizando
 `Django <https://www.djangoproject.com/>`_. Desta forma, passou a ser um sistema
-de gerenciamento de tarefas e conte√∫do, atrav√©s do `Openshift <https://www.openshift.com/>`_,
-para facilitar a troca de id√©ias/dicas entre um grupo de engenheiros envolvidos
-com an√°lise e c√°lculo estrutural. Consequentemente, acabou virando uma forma de
-documentar e guardar informa√ß√µes para consultas em novos trabalhos.
+de gerenciamento de tarefas e conte˙do, atravÈs do `Openshift <https://www.openshift.com/>`_,
+para facilitar a troca de idÈias/dicas entre um grupo de engenheiros envolvidos
+com an·lise e c·lculo estrutural. Consequentemente, acabou virando uma forma de
+documentar e guardar informaÁıes para consultas em novos trabalhos.
 
-Aos poucos foi se expandindo para outras √°reas de c√°lculo, formando uma fonte de
-conhecimento, justificando o nome `Mem√≥ria de C√°lculo <http://www.memoriadecalculo.com.br/>`_.
+Aos poucos foi se expandindo para outras ·reas de c·lculo, formando uma fonte de
+conhecimento, justificando o nome `MemÛria de C·lculo <http://www.memoriadecalculo.com.br/>`_.
 
 Bibliografia
 ============
-De maneira geral, procurou-se citar os autores e fontes bibliogr√°ficas e sumariz√°-los
+De maneira geral, procurou-se citar os autores e fontes bibliogr·ficas e sumariz·-los
 abaixo, permitindo o aprofundamento dos estudos.
 
 .. rubric:: Bibliografia
-.. [ArteNaval2002] Fonseca, Maur√≠lio Magalh√£es, Arte Naval, 2002, 6.ed., Rio de Janeiro, Servi√ßo de Documenta√ß√£o da Marinha, ISBN 85-7047-051-7
+.. [ArteNaval2002] Fonseca, MaurÌlio Magalh„es, Arte Naval, 2002, 6.ed., Rio de Janeiro, ServiÁo de DocumentaÁ„o da Marinha, ISBN 85-7047-051-7
 .. [BowlesTerzaghi1955] Bowles e Terzaghi, Foundation Analysis and Design, McGraw Hill, 1955
-.. [CintraAoki] Jos√© Carlos A. Cintra e Nelson Aoki, Funda√ß√µes por estaca - Projeto geot√©cnico, Oficina de Textos
+.. [CintraAoki] JosÈ Carlos A. Cintra e Nelson Aoki, FundaÁıes por estaca - Projeto geotÈcnico, Oficina de Textos
 .. [DesignPorts] Design and Construction of Ports and Marine Structures
-.. [GONZALEZ2001] Notas de Aula, A√ß√µes de Ondas Sobre Estruturas, A√ß√µes de Ondas Sobre Enrocamentos, Julio de A. Gonzalez, 2001
-.. [Moliterno2008] Antonio Moliterno, Caderno de muros de arrimo, 2¬™ Edi√ß√£o revista, Editora Edgard Bl√ºcher, 2008
+.. [GONZALEZ2001] Notas de Aula, AÁıes de Ondas Sobre Estruturas, AÁıes de Ondas Sobre Enrocamentos, Julio de A. Gonzalez, 2001
+.. [Moliterno2008] Antonio Moliterno, Caderno de muros de arrimo, 2™ EdiÁ„o revista, Editora Edgard Bl¸cher, 2008
 .. [Monteiro2005] Paulo Frederico Monteiro, Notas de aula, 2005
-.. [Monteiro2006] Paulo Frederico Monteiro, Programa√ß√£o de Sondagens, 2006
+.. [Monteiro2006] Paulo Frederico Monteiro, ProgramaÁ„o de Sondagens, 2006
 .. [Munk1944] Verificar
 .. [NBR_6122] NBR 6122
-.. [NBR_7583] Execu√ß√£o de pavimento de concreto simples por meio mec√¢nico
-.. [NBR_8036] NBR 8036, Programa√ß√£o de sondagens de simples reconhecimento dos solos para funda√ß√µes de edif√≠cios, 1983
-.. [NBR_9062] NBR 9062 - Projeto e execu√ß√£o de estruturas de concreto pr√©-moldado
+.. [NBR_7583] ExecuÁ„o de pavimento de concreto simples por meio mec‚nico
+.. [NBR_8036] NBR 8036, ProgramaÁ„o de sondagens de simples reconhecimento dos solos para fundaÁıes de edifÌcios, 1983
+.. [NBR_9062] NBR 9062 - Projeto e execuÁ„o de estruturas de concreto prÈ-moldado
 .. [NBR_9782] NBR 9782
-.. [NBR11240] ABNT, NBR 11240:1990 - Utiliza√ß√£o de defensas portu√°rias
-.. [NBR11832] ABNT, NBR 11832:1991 - Defensas portu√°rias de elast√¥meros
-.. [NBR13209] ABNT, NBR 13209:1994 - Planejamento portu√°rio - Obras de acostagem
+.. [NBR11240] ABNT, NBR 11240:1990 - UtilizaÁ„o de defensas portu·rias
+.. [NBR11832] ABNT, NBR 11832:1991 - Defensas portu·rias de elastÙmeros
+.. [NBR13209] ABNT, NBR 13209:1994 - Planejamento portu·rio - Obras de acostagem
 .. [PIANCbreak] PIANC; Floating Breakwaters - A Pratical Guide for Design and Construction
-.. [Rebello2011] Yopanan C. P. Rebello, FUNDA√á√ïES - Guia Pr√°tico de Projeto, Execu√ß√£o e Dimensionamento, 2011, Editora Zigurate, 3¬™Edi√ß√£o, Janeiro/2011, ISBN 978-85-85570-10-1
-.. [Recuperar200604] Revista Recuperar; Ano 11 Mar√ßo / Abril 2006.
-.. [Sussekind1977] Jos√© Carlos S√ºssekind, Curso de An√°lise Estrutural, Volume 2, Cap√≠tulo III, 2a Edi√ß√£o; Editora Globo, 1977
+.. [Rebello2011] Yopanan C. P. Rebello, FUNDA«’ES - Guia Pr·tico de Projeto, ExecuÁ„o e Dimensionamento, 2011, Editora Zigurate, 3™EdiÁ„o, Janeiro/2011, ISBN 978-85-85570-10-1
+.. [Recuperar200604] Revista Recuperar; Ano 11 MarÁo / Abril 2006.
+.. [Sussekind1977] JosÈ Carlos S¸ssekind, Curso de An·lise Estrutural, Volume 2, CapÌtulo III, 2a EdiÁ„o; Editora Globo, 1977
 .. [UFC_4-150-08] UNIFIED FACILITIES CRITERIA 4-150-08: INSPECTION OF MOORING HARDWARE
-.. [Winckler1867] Emil Winckler, Die Lehre von Elastizit√§t und Festigkeit (On elasticity and fixity), Prague, p.182, 1867
+.. [Winckler1867] Emil Winckler, Die Lehre von Elastizit‰t und Festigkeit (On elasticity and fixity), Prague, p.182, 1867
