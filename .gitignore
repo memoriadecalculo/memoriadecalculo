@@ -1,0 +1,13 @@
+*.py[co]
+*.sw[po]
+*.bak
+*.orig
+*~
+.project
+.pydevproject
+.settings/* 
+chave.txt 
+/repo/
+**/__pycache__
+/wsgi/static
+/REPO/
