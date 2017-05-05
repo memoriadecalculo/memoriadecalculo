@@ -19,24 +19,7 @@ Qualquer coisa, entre em `Contato </contato/>`_.
 Índices e tabelas
 =================
 
-.. toctree::
-   :caption: Conteúdo
-   :name: indicegeral
-   :maxdepth: 2
-   :numbered:
 
-   mc
-   mat
-   solo
-   port
-   pericias
-   eng
-   prg
-   src/modules
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 Histórico
 =========
