@@ -209,3 +209,8 @@ def x_m(b_0,b):
     result = (b_0**2 + b*b_0 + b**2) / (3 * (b + b_0))
 
     return result
+
+# .. include:: <isoamsr.txt>
+# 
+# .. include:: </PRJ/mc/wsgi/variaveis.txt>
+# 

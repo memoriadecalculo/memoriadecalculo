@@ -64,10 +64,6 @@ documentar e guardar informações para consultas em novos trabalhos.
 Aos poucos foi se expandindo para outras áreas de cálculo, formando uma fonte de
 conhecimento, justificando o nome `Memória de Cálculo <http://www.memoriadecalculo.com.br/>`_.
 
-.. include:: <isoamsr.txt>
-
-.. include:: </PRJ/mc/wsgi/variaveis.txt>
-
 Bibliografia
 ============
 De maneira geral, procurou-se citar os autores e fontes bibliográficas e sumarizá-los
