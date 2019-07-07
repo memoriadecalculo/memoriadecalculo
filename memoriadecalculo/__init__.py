@@ -1,6 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: cp1252 -*-
 
+# .. contents:: `Índice`
+#    :depth: 5
+#    :backlinks: entry
+# 
+# .. sectnum::
+# 
 # Base
 # ====
 # 
