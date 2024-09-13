@@ -1,5 +1,11 @@
 .. Para que o GitHub renderize os arquivos '.rst' corretamente, eles devem estar em UTF-8
 
+.. toctree::
+   :caption: Conteúdo
+   :name: indicegeral
+   :maxdepth: 1
+   :hidden:
+
 Bem vind@!
 ==========
 Esta é uma biblioteca com o intuito de compatilhar código na área de exatas,
