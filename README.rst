@@ -11,7 +11,7 @@ além facilitar o acesso à informação pesquisada e resumida.
 
 Qualquer coisa, entre em `Contato </contato/>`_.
 
-.. figure:: ../icone.png
+.. figure:: ./icone.png
 
 Índice
 ======
