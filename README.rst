@@ -1,103 +1,163 @@
 .. Para que o GitHub renderize os arquivos '.rst' corretamente, eles devem estar em UTF-8
 
-.. toctree::
-   :caption: Conteúdo
-   :name: indicegeral
-   :maxdepth: 1
-   :hidden:
+.. _memoriadecalculo:
 
 Bem vind@!
 ==========
-Esta é uma biblioteca com o intuito de compatilhar código na área de exatas,
-além facilitar o acesso à informação pesquisada e resumida.
+Esta Biblioteca foi elaborada, em um primeiro momento, para a
+área de
+:ref:`engestrutural` e, de maneira geral, para a área de exatas,
+com o intuito de compartilhar, dentro das :ref:`licenca`, informação
+e código resumidos,
+que podem ser acessados pelo menu de navegação deste sítio.
 
 **Aproveite!**
 
-**Colabore!**
+Para **colaborações**, **sugestões**, **críticas** e **dúvidas**, entre em
+contato pelas redes sociais abaixo:
 
-Qualquer coisa, entre em `Contato </contato/>`_.
+|GitHub|_ |PyPi|_ |LinkedIn|_ |Instagram|_ |Facebook|_
 
-.. figure:: ./icone.png
+.. _memoriadcalculo@gmail.com: memoriadcalculo@gmail.com
+.. |GitHub| image:: ../www/github.png
+   :height: 45px
+   :width:  45px
+   :alt: GitHub
+.. _GitHub: https://github.com/memoriadecalculo
+.. |PyPi| image:: ../www/pypi.svg
+   :height: 45px
+   :width:  51px
+   :alt: PyPi
+.. _PyPi: https://pypi.org/user/memoriadecalculo/
+.. |Instagram| image:: ../instagram.png
+   :height: 45px
+   :width:  45px
+   :alt: Instagram
+.. _Instagram: https://www.instagram.com/memoriadecalculo/
+.. |Facebook| image:: ../www/facebook.png
+   :height: 45px
+   :width:  45px
+   :alt: Facebook
+.. _Facebook: https://www.facebook.com/Mem%C3%B3ria-de-C%C3%A1lculo-114556903322363/
+.. |LinkedIn| image:: ../www/linkedin.png
+   :height: 45px
+   :width:  45px
+   :alt: LinkedIn
+.. _LinkedIn: https://www.linkedin.com/in/memoriadecalculo/
 
-Índice
-======
 
-.. contents:: `Índice`
-   :depth: 2
+.. _formularios:
 
+Formulários de Cálculo
+----------------------
+Os seguintes Formulários foram criados utilizando o conteúdo dos Capítulos desta
+Biblioteca e podem servir para cálculos rápidos como se fossem planilhas.
+
+TODO: inserir python notebook.
+
+.. hint:: Deve-se utilizar as unidades de engenharia ao inserir dados nesses
+          Formulários. Por
+          exemplo, em um campo que solicita um comprimento, deve-se escrever:
+          :math:`10*m`.
+
+.. warning:: Cabe ao usuário verificar se os resultados são corretos e adequados
+             à sua realidade (veja as :ref:`licenca`).
+
+
+.. _pacote:
+
+Pacote Python
+--------------------------------
+Além dos :ref:`formularios`, esta Biblioteca pode ser
+utilizada como um pacote :ref:`Python`, dentro das :ref:`licenca`.
+
+.. Instalação
+   ----------
+   .. code:: python
+   
+     pip install memoriadecalculo
+   
+   Utilização
+   ----------
+   .. code:: python
+   
+     import memoriadecalculo
+
+
+.. _licenca:
+
+Condições de Utilização
+-----------------------
+.. important:: Esta Biblioteca é divulgada sob as condições da
+               `Licença MIT <https://opensource.org/license/mit>`_,
+               traduzida abaixo:
+                
+                Licença MIT
+                
+                Copyright (c) [2014] [`Memória de Cálculo <memoriadcalculo@gmail.com>`_]
+                
+                É concedida permissão, livre de cobrança, a qualquer pessoa que
+                obtenha uma cópia deste software e dos arquivos de documentação
+                associados (o "Software"), para lidar com o Software sem
+                restrição, incluindo sem limitação os direitos de usar, copiar,
+                modificar, mesclar, publicar, distribuir, sublicenciar e/ou
+                vender cópias do Software e permitir a pessoas a quem o
+                Software é fornecido para tal, sujeito às seguintes condições:
+                
+                   A notificação de copyright acima e esta notificação de
+                   permissão deverão ser incluídas em todas as cópias ou porções
+                   substanciais do Software.
+                
+                O SOFTWARE É FORNECIDO "TAL COMO ESTÁ", SEM GARANTIA DE QUALQUER
+                TIPO, EXPRESSA OU IMPLÍCITA, INCLUINDO MAS NÃO SE LIMITANDO ÀS
+                GARANTIAS DE COMERCIALIZAÇÃO, CONVENIÊNCIA PARA UM PROPÓSITO
+                ESPECÍFICO E NÃO INFRAÇÃO. EM NENHUMA SITUAÇÃO DEVEM AUTORES(AS)
+                OU TITULARES DE DIREITOS AUTORAIS SEREM RESPONSÁVEIS POR
+                QUALQUER REIVINDICAÇÃO, DANO OU OUTRAS RESPONSABILIDADES, SEJA
+                EM AÇÃO DE CONTRATO, PREJUÍZO OU OUTRA FORMA, DECORRENTE DE,
+                FORA DE OU EM CONEXÃO COM O SOFTWARE OU O USO OU OUTRAS RELAÇÕES
+                COM O SOFTWARE.
+             
+             Apenas a versão original em inglês tem valor legal e pode ser
+             consultada em um dos seguintes links:
+             
+             - `Licença MIT salva aqui </LICENSE.txt>`_
+             - `Licença MIT na internet <https://opensource.org/license/mit>`_
+
+
+.. _historico:
 
 Histórico
-=========
-A primeira versão deste projeto e biblioteca foi publicada em Julho de 2014 para
+---------
+A primeira versão desta Biblioteca foi publicada em Julho de 2014 para
 auxiliar nos cálculos e na elaboração de relatórios.
 
-Ela foi disponibilizada de acordo com a licença `GPL versão 3 <http://pt.wikipedia.org/wiki/GNU_General_Public_License>`_ através do projeto google
+Ela foi disponibilizada de acordo com a licença
+`GPL versão 3 <https://pt.wikipedia.org/wiki/GNU_General_Public_License>`_
+por meio do Projeto `Google <https://www.google.com>`_
 `Biblioteca Memória de Cálculo <https://code.google.com/p/memoria-de-calculo>`_.
 
-A biblioteca foi desenvolvida basicamente em `Linguagem Python <http://pt.wikipedia.org/wiki/Python>`_
-e documentada em `RestructuredText <http://pt.wikipedia.org/wiki/ReStructuredText>`_.
+Em 13/07/2014, foi criado um
+`aplicativo teste para celular <https://app.vc/memoria_de_calculo>`_,
+que foi descontinuado.
 
-Em 13/07/2014 foi criado um `aplicativo teste para celular <http://app.vc/memoria_de_calculo>`_.
+Após o término da hospedagem do código pelo `Google <https://www.google.com>`_,
+esta Biblioteca foi arquivada no
+`Google Archive <https://code.google.com/archive/p/memoria-de-calculo/>`_.
 
-Após o término de hospedagem de código pelo `Google <http://www.google.com>`_,
-este projeto foi arquivado no link https://code.google.com/archive/p/memoria-de-calculo/
+Posteriormente, esta Biblioteca foi migrada e adaptada para ser publicada na web utilizando
+:ref:`Django`. Dessa forma, passou a ser um sistema
+de gerenciamento de conteúdo, através do
+`Openshift <https://www.openshift.com/>`_,
+para facilitar a troca de ideias e dicas sobre
+análise e cálculo estrutural. Consequentemente, acabou virando uma forma de
+documentar e guardar informações para consultas.
 
-Bibliografia
-============
-De maneira geral, procurou-se citar os autores e fontes bibliográficas e sumarizá-los
-abaixo, permitindo o aprofundamento dos estudos.
+Após o término da hospedagem no `Openshift <https://www.openshift.com/>`_, esta
+Biblioteca ficou um tempo fora do ar até voltar desta forma em Novembro de 2021.
 
-.. rubric:: Bibliografia
-.. [ArteNaval2002] Fonseca, Maurílio Magalhães, Arte Naval, 2002, 6.ed., Rio de Janeiro, Serviço de Documentação da Marinha, ISBN 85-7047-051-7
-.. [BowlesTerzaghi1955] Bowles e Terzaghi, Foundation Analysis and Design, McGraw Hill, 1955
-.. [CintraAoki] José Carlos A. Cintra e Nelson Aoki, Fundações por estaca - Projeto geotécnico, Oficina de Textos
-.. [DesignPorts] Design and Construction of Ports and Marine Structures
-.. [Gonzalez2001] Notas de Aula, Ações de Ondas Sobre Estruturas, Ações de Ondas Sobre Enrocamentos, Julio de A. Gonzalez, 2001
-.. [Moliterno2008] Antonio Moliterno, Caderno de muros de arrimo, 2ª Edição revista, Editora Edgard Blücher, 2008
-.. [Monteiro2005] Paulo Frederico Monteiro, Notas de aula, 2005
-.. [Monteiro2006] Paulo Frederico Monteiro, Programação de Sondagens, 2006
-.. [Munk1944] Verificar
-.. [NBR_6122] NBR 6122
-.. [NBR_7583] Execução de pavimento de concreto simples por meio mecânico
-.. [NBR_8036] NBR 8036, Programação de sondagens de simples reconhecimento dos solos para fundações de edifícios, 1983
-.. [NBR_9062] NBR 9062 - Projeto e execução de estruturas de concreto pré-moldado
-.. [NBR_9782] NBR 9782
-.. [NBR11240] ABNT, NBR 11240:1990 - Utilização de defensas portuárias
-.. [NBR11832] ABNT, NBR 11832:1991 - Defensas portuárias de elastômeros
-.. [NBR13209] ABNT, NBR 13209:1994 - Planejamento portuário - Obras de acostagem
-.. [PIANCbreak] PIANC; Floating Breakwaters - A Pratical Guide for Design and Construction
-.. [Rebello2011] Yopanan C. P. Rebello, FUNDAÇÕES - Guia Prático de Projeto, Execução e Dimensionamento, 2011, Editora Zigurate, 3ªEdição, Janeiro/2011, ISBN 978-85-85570-10-1
-.. [Recuperar200604] Revista Recuperar; Ano 11 Março / Abril 2006.
-.. [Sussekind1977] José Carlos Süssekind, Curso de Análise Estrutural, Volume 2, Capítulo III, 2a Edição; Editora Globo, 1977
-.. [UFC_4-150-08] UNIFIED FACILITIES CRITERIA 4-150-08: INSPECTION OF MOORING HARDWARE
-.. [Winckler1867] Emil Winckler, Die Lehre von Elastizität und Festigkeit (On elasticity and fixity), Prague, p.182, 1867
+Um dia esta Biblioteca terá um [ISBN]_.
 
-.. include:: <isoamsr.txt>
-
-.. |Fi1| replace:: Fi\ :sub:`1`\
-.. |Ks| replace:: K\ :sub:`s`\
-.. |ki| replace:: k\ :sub:`i`\
-.. |m3| replace:: m\ :sup:`3`\
-.. |Af| replace:: A\ :sub:`f`\
-.. |m2| replace:: m\ :sup:`2`\
-.. |b0| replace:: b\ :sub:`0`\
-.. |mm2| replace:: mm\ :sup:`2`\
-.. |defT| replace:: def\ :sub:`T`\
-.. |COMP0| replace:: COMP\ :sub:`0`\
-.. |COMPvar| replace:: COMP\ :sub:`var`\
-.. |T0| replace:: T\ :sub:`0`\
-.. |T1| replace:: T\ :sub:`1`\
-.. |defTe| replace:: def\ :sub:`Te`\
-.. |graus| replace:: \ :sub:`o`\
-.. |sen2| replace:: sen\ :sup:`2`\
-.. |10E3| replace:: 10\ :sup:`3`\
-.. |Cd| replace:: C\ :sub:`d`\
-.. |Cm| replace:: C\ :sub:`m`\
-.. |D^2| replace:: D\ :sup:`2`\
-.. |Fa| replace:: F\ :sub:`a`\
-.. |Fi| replace:: F\ :sub:`i`\
-.. |H1/3| replace:: H\ :sub:`1/3`\
-.. |h2| replace:: h\ :sup:`2`\
-.. |H_s| replace:: H\ :sub:`s`\
-.. |v^2| replace:: v\ :sup:`2`\
-.. |yt| replace:: y\ :sub:`t`\
+Agradecimentos
+--------------
+Ao Eng. Marcelo C. J. Reis por ceder gentilmente as Funções de Tubulão [2015_Reis]_.
